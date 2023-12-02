@@ -1,14 +1,4 @@
 <?php
-/**
- * Hey functions and definitions
- *
- * @link https://developer.wordpress.org/themes/basics/theme-functions/
- *
- * @package Hey
- * @since Hey 1.0
- */
-
-
 if ( ! function_exists( 'hey_support' ) ) :
 
 	/**

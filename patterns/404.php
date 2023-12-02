@@ -1,9 +1,4 @@
 <?php
-/**
- * Title: A 404 page
- * Slug: hey/404
- * Inserter: no
- */
 ?>
 <!-- wp:heading {"textAlign":"left","level":1,"fontSize":"large"} -->
 <h1 class="wp-block-heading has-text-align-left has-large-font-size">
